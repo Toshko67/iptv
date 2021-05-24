@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,БНТ1
-http://s92.sedemosmitv.com/hls/hd-bnt-1-hd.m3u8?e=1621818569&hash=cnnerdgKsL-GAr_zex4zHw
+http://s76.gledaitv.co/hls/hd-bnt-1-hd_hd720/index.m3u8?e=1621847133&hash=viOx8NQ5_9LaDz32bADnSg
 #EXTINF:0,BTV
-http://mx86.gledaitv.co/hls/hd-btv-hd.m3u8?e=1621818647&hash=efUWTlASwW1yA28luTYZGQ
+http://s100.sedemosmitv.com/hls/hd-btv-hd_hd720/index.m3u8?e=1621847203&hash=m6F4T9i9B4O8bIl31vPtfg
 #EXTINF:0,NOVA HD
 http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
 #EXTINF:0,HBO
