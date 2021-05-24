@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,БНТ1
-https://livebgtv.stream/bg.json
+http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=452110&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6Mjc6NTMgUE0maGFzaF92YWx1ZT1vR1FSbmJCNW5jQjg1N0g2N0NzU2Z3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,BTV
-https://mx86.gledaitv.co/hls/hd-btv-hd_hd720/index.m3u8?e=1621854906&hash=bmUYq_e0dJvQUJsf-F_NMA
+http://51.15.197.47:2052/iptv/btv/chunks.m3u8?nimblesessionid=452113&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6Mjg6NDggUE0maGFzaF92YWx1ZT11ZHZtY0ZJS1Eyc0lVTVdRUUZkUWl3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,NOVA HD
-https://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
+http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6Mjk6MTkgUE0maGFzaF92YWx1ZT02MjRESzVXQ2dPbnFYNU9ETmxxRWx3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,HBO
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,HBO 2
@@ -14,17 +14,17 @@ http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,BTV ACTION
 http://185.163.244.10:204/play/bTVActionHD/13138382.m3u8
 #EXTINF:0,BTV CINEMA
-https://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621854979&hash=hLguBw1MfVDGXhDdZQcAsw
+http://51.15.197.47:2052/iptv/btvcinema/chunks.m3u8?nimblesessionid=452120&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzA6MzEgUE0maGFzaF92YWx1ZT1zSmt5NmExWm5rTEIwVkRCb3NOQzRnPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,BTV COMEDY
-https://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621854998&hash=ZrdipBrDD1c-vbdiZ3Br7w
+http://51.15.197.47:2052/iptv/btvcomedy/chunks.m3u8?nimblesessionid=452123&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzE6NDMgUE0maGFzaF92YWx1ZT02OE9BS2txQ09mYmhiS0Jtd0tiRytBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,BTV LADY
-https://s76.gledaitv.co/hls/btv-lady/index.m3u8?e=1621855024&hash=Tzt1s3HHYukKa-_OZcgoGg
+http://51.15.197.47:2052/iptv/btvlady/chunks.m3u8?nimblesessionid=452125&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzI6MDMgUE0maGFzaF92YWx1ZT1LOFB6T3NhNUwyQ3FCcVpWeEhRYUxRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,DIEMA
-https://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621855066&hash=o-o30GvhauedZg_esl5Sqw
+http://51.15.197.47:2052/iptv/diema/chunks.m3u8?nimblesessionid=452127&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzI6MjUgUE0maGFzaF92YWx1ZT05NEVxMWlueUNEL0ZEVXh4L1lhMTdRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,KINO NOVA
-https://s115.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1621856782&hash=J7g6MzMyDNN5zafN3Jxb1A
+http://51.15.197.47:2052/iptv/kinonova/chunks.m3u8?nimblesessionid=452129&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzI6NDYgUE0maGFzaF92YWx1ZT00dnlCTzM2ZjJOa1pvNnJjSXNSWTF3PT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,DIEAMA FAMILY 
-https://s92.sedemosmitv.com/hls/diema-family/index.m3u8?e=1621855085&hash=NzfU4aoqo2hyqZ_ikpIPow
+http://51.15.197.47:2052/iptv/diemafamily/chunks.m3u8?nimblesessionid=452131&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDIxIDg6MzM6MDUgUE0maGFzaF92YWx1ZT15VEpaZEk0VTAxMEVscXA0Wi9lZFBRPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:0,FOX LIFE
 https://s76.gledaitv.co/hls/hd-fox-life-hd_hd720/index.m3u8?e=1621855116&hash=Gp4ikq1xVuBh5iMsWE14Rw
 #EXTINF:0,FOX CRIME
