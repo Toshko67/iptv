@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,БНТ1
-https://s92.sedemosmitv.com/hls/hd-bnt-1-hd_hd720/index.m3u8?e=1621854541&hash=VmXsvQ4hztAakeahZ96bpg
+https://livebgtv.stream/bg.json
 #EXTINF:0,BTV
 https://mx86.gledaitv.co/hls/hd-btv-hd_hd720/index.m3u8?e=1621854906&hash=bmUYq_e0dJvQUJsf-F_NMA
 #EXTINF:0,NOVA HD
