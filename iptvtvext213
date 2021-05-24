@@ -2,9 +2,9 @@
 #EXTINF:0,БНТ1
 https://s92.sedemosmitv.com/hls/hd-bnt-1-hd_hd720/index.m3u8?e=1621854541&hash=VmXsvQ4hztAakeahZ96bpg
 #EXTINF:0,BTV
-http://s100.sedemosmitv.com/hls/hd-btv-hd_hd720/index.m3u8?e=1621847203&hash=m6F4T9i9B4O8bIl31vPtfg
+https://mx86.gledaitv.co/hls/hd-btv-hd_hd720/index.m3u8?e=1621854906&hash=bmUYq_e0dJvQUJsf-F_NMA
 #EXTINF:0,NOVA HD
-http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
+https://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
 #EXTINF:0,HBO
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,HBO 2
@@ -14,48 +14,41 @@ http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,BTV ACTION
 http://185.163.244.10:204/play/bTVActionHD/13138382.m3u8
 #EXTINF:0,BTV CINEMA
-http://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621847481&hash=Hhc3zbM42GjDgIuNij_Ypw
+https://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621854979&hash=hLguBw1MfVDGXhDdZQcAsw
 #EXTINF:0,BTV COMEDY
-http://s115.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621847543&hash=zdznOnkz4BaRVmLCVQ9ukQ
+https://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621854998&hash=ZrdipBrDD1c-vbdiZ3Br7w
 #EXTINF:0,BTV LADY
-https://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
+https://s76.gledaitv.co/hls/btv-lady/index.m3u8?e=1621855024&hash=Tzt1s3HHYukKa-_OZcgoGg
 #EXTINF:0,DIEMA
-http://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621848043&hash=ogVY-8066NcYBgsEujmapA  
+https://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621855066&hash=o-o30GvhauedZg_esl5Sqw  
 #EXTINF:0,DIEAMA FAMILY 
-http://https://s100.sedemosmitv.com/hls/diema-family/index.m3u8?e=1621819573&hash=bggNUDxtYJ6MqwTOszrN3w
+https://s92.sedemosmitv.com/hls/diema-family/index.m3u8?e=1621855085&hash=NzfU4aoqo2hyqZ_ikpIPow
 #EXTINF:0,FOX LIFE
-https://s76.gledaitv.co/hls/hd-fox-life-hd.m3u8?e=1621819642&hash=5fHnkOE_MJOjGddcC2RaIg
+https://s76.gledaitv.co/hls/hd-fox-life-hd_hd720/index.m3u8?e=1621855116&hash=Gp4ikq1xVuBh5iMsWE14Rw
 #EXTINF:0,FOX CRIME
-http://https://mx86.gledaitv.co/hls/hd-fox-crime-hd.m3u8?e=1621819726&hash=Lu2_zn0XS-fILQ7OJ2DODQ
+https://s100.sedemosmitv.com/hls/hd-fox-crime-hd_hd720/index.m3u8?e=1621855150&hash=2LTax-TKKMqfGaw2PSAD9w
 #EXTINF:0,FOX
-http://https://mx86.gledaitv.co/hls/hd-fox-hd.m3u8?e=1621819785&hash=HKqY-WQoQ-gSkutu0UspHA
+https://s92.sedemosmitv.com/hls/hd-fox-hd_hd720/index.m3u8?e=1621855191&hash=oS3JIAqEf9yRhR8lOVuk_Q
 #EXTINF:0,AXN
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s100.sedemosmitv.com/hls/axn/index.m3u8?e=1621855218&hash=q17Wv7Wk4_U6THYHCxcPNw
 #EXTINF:0,AXN BLACK
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,AXN WHITE
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,BNT 4
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s76.gledaitv.co/hls/bnt-4/index.m3u8?e=1621855284&hash=5BO0pgacO_Tka-LNpitnTg
 #EXTINF:0,BNT 2
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s100.sedemosmitv.com/hls/bnt-2/index.m3u8?e=1621855330&hash=20xfm6bfzlwiEAQC_4iVzw
 #EXTINF:0,RING BG
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s115.sedemosmitv.com/hls/hd-ring-bg-hd_hd720/index.m3u8?e=1621855350&hash=ZWFykaNStIQuUShmDdBZkQ
 #EXTINF:0,DIEAMA SPORT HD
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s76.gledaitv.co/hls/hd-diema-sport-hd_hd720/index.m3u8?e=1621855386&hash=K3wYFC1cV2v-OTZgktbaPA
 #EXTINF:0,DIEMA SPORT 2 HD
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s92.sedemosmitv.com/hls/hd-diema-sport-2-hd_hd720/index.m3u8?e=1621855425&hash=yw-L-qy4pxp5vsej-w_N8w
 #EXTINF:0,NOVA SPORT
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s92.sedemosmitv.com/hls/hd-nova-sport-hd_hd720/index.m3u8?e=1621855445&hash=JNJFZcn3jdFUohNHATTqug
 #EXTINF:0,BULGARIA ON AIR
-http://46.249.82.226:82/hls/live/live.m3u8
+https://s115.sedemosmitv.com/hls/bulgaria-on-air/index.m3u8?e=1621855481&hash=pgmMIXxS9s006Lg2qhmj7w
 #EXTINF:0,България 24
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
-http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
-http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
-http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
-http://46.249.82.226:82/hls/live/live.m3u8
+
