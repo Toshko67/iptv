@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,БНТ1
-http://s76.gledaitv.co/hls/hd-bnt-1-hd_hd720/index.m3u8?e=1621847133&hash=viOx8NQ5_9LaDz32bADnSg
+http://s76.gledaitv.co/hls/hd-bnt-1-hd_hd720/index.m3u8?e=1621847133&hash=viOx8NQ5_9LaDz32bADnSg 
 #EXTINF:0,BTV
 http://s100.sedemosmitv.com/hls/hd-btv-hd_hd720/index.m3u8?e=1621847203&hash=m6F4T9i9B4O8bIl31vPtfg
 #EXTINF:0,NOVA HD
@@ -18,7 +18,7 @@ http://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621847481&hash=Hhc3zbM4
 #EXTINF:0,BTV COMEDY
 http://s115.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621847543&hash=zdznOnkz4BaRVmLCVQ9ukQ
 #EXTINF:0,BTV LADY
-http://s76.gledaitv.co/hls/btv-lady/index.m3u8?e=1621847886&hash=WIsR34bwATmrED2R6jX4AA
+https://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8
 #EXTINF:0,DIEMA
 http://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621848043&hash=ogVY-8066NcYBgsEujmapA  
 #EXTINF:0,DIEAMA FAMILY 
