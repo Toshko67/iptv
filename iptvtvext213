@@ -20,7 +20,9 @@ https://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621854998&hash=ZrdipBr
 #EXTINF:0,BTV LADY
 https://s76.gledaitv.co/hls/btv-lady/index.m3u8?e=1621855024&hash=Tzt1s3HHYukKa-_OZcgoGg
 #EXTINF:0,DIEMA
-https://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621855066&hash=o-o30GvhauedZg_esl5Sqw  
+https://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621855066&hash=o-o30GvhauedZg_esl5Sqw
+#EXTINF:0,KINO NOVA
+https://s115.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1621856782&hash=J7g6MzMyDNN5zafN3Jxb1A
 #EXTINF:0,DIEAMA FAMILY 
 https://s92.sedemosmitv.com/hls/diema-family/index.m3u8?e=1621855085&hash=NzfU4aoqo2hyqZ_ikpIPow
 #EXTINF:0,FOX LIFE
