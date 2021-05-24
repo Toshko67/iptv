@@ -14,13 +14,13 @@ http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,BTV ACTION
 http://185.163.244.10:204/play/bTVActionHD/13138382.m3u8
 #EXTINF:0,BTV CINEMA
-http://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621819224&hash=iSTk4TglmTQqqJHOg6G11g
+http://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1621847481&hash=Hhc3zbM42GjDgIuNij_Ypw
 #EXTINF:0,BTV COMEDY
-http://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621819298&hash=j4H9s026dShTjO5sYUZlJA
+http://s115.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1621847543&hash=zdznOnkz4BaRVmLCVQ9ukQ
 #EXTINF:0,BTV LADY
 http://s100.sedemosmitv.com/hls/btv-lady/index.m3u8?e=1621819373&hash=KsTgZugP-AuzJ3XevdKh5w
 #EXTINF:0,DIEMA
-http://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621819421&hash=DjWifor0dOCQGi03H-UrKQ
+http://mx86.gledaitv.co/hls/diema/index.m3u8?e=1621847643&hash=fE9Fr2cQqsBwTVPQhMcwqQ
 #EXTINF:0,DIEAMA FAMILY 
 http://https://s100.sedemosmitv.com/hls/diema-family/index.m3u8?e=1621819573&hash=bggNUDxtYJ6MqwTOszrN3w
 #EXTINF:0,FOX LIFE
