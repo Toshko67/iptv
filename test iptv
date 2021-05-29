@@ -1,840 +1,842 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<root>
-	<name>LiveBGTV.Stream - TV</name>
-	<imageUrl>https://livebgtv.stream/tvlistimage.png</imageUrl>
-	<updateUrl>https://livebgtv.stream/bg.json</updateUrl>
-	<key>bBjiqUgS8adByi5fuA1J5m55xpga7TlvbQz001id+0A=</key>
-	<usesBalancer>false</usesBalancer>
-	<baseUrl>https://s001.livebgtv.stream</baseUrl>
-	<hashParam>h</hashParam>
-	<expireParam>e</expireParam>
-	<expireTime>43200</expireTime>
-	<items>
-		<name>BNT 1 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bnt1.png</imageUrl>
-		<uri>/media/a01n/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BTV HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/btv.png</imageUrl>
-		<uri>/media/a01g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NOVA HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/novatv.png</imageUrl>
-		<uri>/media/a012/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NOVA NEWS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/novanews.png</imageUrl>
-		<uri>/media/a02u/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BTV ACTION HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/btvaction.png</imageUrl>
-		<uri>/media/a016/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BTV CINEMA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/btvcinema.png</imageUrl>
-		<uri>/media/a03s/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BTV COMEDY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/btvcomedy.png</imageUrl>
-		<uri>/media/a03r/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BTV LADY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/btvlady.png</imageUrl>
-		<uri>/media/a01e/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DIEMA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/diema.png</imageUrl>
-		<uri>/media/a03u/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DIEMA FAMILY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/diemafamily.png</imageUrl>
-		<uri>/media/a017/index.m3u8</uri>
-	</items>
-	<items>
-		<name>KINO NOVA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/kinonova.png</imageUrl>
-		<uri>/media/a03t/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FOX</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fox.png</imageUrl>
-		<uri>/media/a01f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FOX CRIME</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/foxcrime.png</imageUrl>
-		<uri>/media/a05f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FOX LIFE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/foxlife.png</imageUrl>
-		<uri>/media/a02s/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BNT 3 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bnt3.png</imageUrl>
-		<uri>/media/a060/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EUROSPORT 1 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/eurosport1.png</imageUrl>
-		<uri>/media/a00y/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EUROSPORT 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/eurosport2.png</imageUrl>
-		<uri>/media/a04c/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DIEMA SPORT HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/diemasport.png</imageUrl>
-		<uri>/media/a037/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DIEMA SPORT 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/diemasport2.png</imageUrl>
-		<uri>/media/a01l/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MAX SPORT 1 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/maxsport1.png</imageUrl>
-		<uri>/media/a03f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MAX SPORT 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/maxsport2.png</imageUrl>
-		<uri>/media/a00u/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MAX SPORT 3 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/maxsport3.png</imageUrl>
-		<uri>/media/a038/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MAX SPORT 4 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/maxsport4.png</imageUrl>
-		<uri>/media/a05q/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NOVA SPORT HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/novasport.png</imageUrl>
-		<uri>/media/a079/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RING BG HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/ring.png</imageUrl>
-		<uri>/media/a02x/index.m3u8</uri>
-	</items>
-	<items>
-		<name>SPORT+ HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/sportplus.png</imageUrl>
-		<uri>/media/a05r/index.m3u8</uri>
-	</items>
-	<items>
-		<name>B1B ACTION</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/b1b.png</imageUrl>
-		<uri>/media/a077/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AUTO MOTOR SPORT HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/automotorsport.png</imageUrl>
-		<uri>/media/a07c/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TRACE SPORT STARS HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tracesportstars.png</imageUrl>
-		<uri>/media/a07a/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EDGE SPORT HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/edgesport.png</imageUrl>
-		<uri>/media/a07b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EXTREME SPORTS HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/extremesports.png</imageUrl>
-		<uri>/media/a06d/index.m3u8</uri>
-	</items>
-	<items>
-		<name>F+</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fplus.png</imageUrl>
-		<uri>/media/a071/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FIGHTBOX</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fightbox.png</imageUrl>
-		<uri>/media/a20a/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AXN</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/axn.png</imageUrl>
-		<uri>/media/a018/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AXN WHITE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/axnwhite.png</imageUrl>
-		<uri>/media/a010/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AXN BLACK</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/axnblack.png</imageUrl>
-		<uri>/media/a01k/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MOVIESTAR HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/moviestar.png</imageUrl>
-		<uri>/media/a046/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HBO HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hbo.png</imageUrl>
-		<uri>/media/a011/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HBO 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hbo2.png</imageUrl>
-		<uri>/media/a01i/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HBO 3 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hbo3.png</imageUrl>
-		<uri>/media/a01o/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CINEMAX HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cinemax.png</imageUrl>
-		<uri>/media/a01j/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CINEMAX 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cinemax2.png</imageUrl>
-		<uri>/media/a014/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FILMBOX EXTRA HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/filmboxtrahd.png</imageUrl>
-		<uri>/media/a07w/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FILMBOX STARS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/filmboxstars.png</imageUrl>
-		<uri>/media/a07v/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ACTION+</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/actionplus.png</imageUrl>
-		<uri>/media/a072/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CINEMA+</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cinemaplus.png</imageUrl>
-		<uri>/media/a073/index.m3u8</uri>
-	</items>
-	<items>
-		<name>COMEDY+</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/comedyplus.png</imageUrl>
-		<uri>/media/a074/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AMC</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/amc.png</imageUrl>
-		<uri>/media/a076/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EPIC DRAMA HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/epicdrama.png</imageUrl>
-		<uri>/media/a07d/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TV 1000</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tv1000.png</imageUrl>
-		<uri>/media/a01p/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DISCOVERY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/discovery.png</imageUrl>
-		<uri>/media/a03g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DISCOVERY SCIENCE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/discoveryscience.png</imageUrl>
-		<uri>/media/a042/index.m3u8</uri>
-	</items>
-	<items>
-		<name>INVESTIGATION DISCOVERY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/investigationdiscovery.png</imageUrl>
-		<uri>/media/a07r/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HISTORY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/history.png</imageUrl>
-		<uri>/media/a01a/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HISTORY 2</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/h2.png</imageUrl>
-		<uri>/media/a07g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DOCUBOX HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/docubox.png</imageUrl>
-		<uri>/media/a07x/index.m3u8</uri>
-	</items>
-	<items>
-		<name>VIASAT EXPLORE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/viasatexplore.png</imageUrl>
-		<uri>/media/a03y/index.m3u8</uri>
-	</items>
-	<items>
-		<name>VIASAT HISTORY HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/viasathistory.png</imageUrl>
-		<uri>/media/a03z/index.m3u8</uri>
-	</items>
-	<items>
-		<name>VIASAT NATURE HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/viasatnature.png</imageUrl>
-		<uri>/media/a040/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FOOD NETWORK HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/foodnetwork.png</imageUrl>
-		<uri>/media/a06z/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CRIME AND INVESTIGATION</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/crimeandinvestigation.png</imageUrl>
-		<uri>/media/a06e/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CBS REALITY</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cbsreality.png</imageUrl>
-		<uri>/media/a078/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ANIMAL PLANET</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/animalplanet.png</imageUrl>
-		<uri>/media/a07f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NATIONAL GEOGRAPHIC</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/natgeo.png</imageUrl>
-		<uri>/media/a01h/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NAT GEO WILD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/natgeowild.png</imageUrl>
-		<uri>/media/a036/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TRAVEL CHANNEL</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/travelchannel.png</imageUrl>
-		<uri>/media/a00b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>WILD TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/wildtv.png</imageUrl>
-		<uri>/media/a07e/index.m3u8</uri>
-	</items>
-	<items>
-		<name>24 KITCHEN</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/24kitchen.png</imageUrl>
-		<uri>/media/a00z/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TLC</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tlc.png</imageUrl>
-		<uri>/media/a019/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FASHION TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fashiontv.png</imageUrl>
-		<uri>/media/a06s/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HOBBY TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hobbytv.png</imageUrl>
-		<uri>/media/a02l/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HOBBY LOV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hobbylov.png</imageUrl>
-		<uri>/media/a070/index.m3u8</uri>
-	</items>
-	<items>
-		<name>PLANETA HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/planetahd.png</imageUrl>
-		<uri>/media/a07z/index.m3u8</uri>
-	</items>
-	<items>
-		<name>PLANETA FOLK</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/planetafolk.png</imageUrl>
-		<uri>/media/a055/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FEN TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fentv.png</imageUrl>
-		<uri>/media/a07i/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FEN FOLK</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/fenfolk.png</imageUrl>
-		<uri>/media/a06j/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FOLKLOR TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/folklor.png</imageUrl>
-		<uri>/media/a02r/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TIANKOV FOLK</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tiankovfolk.png</imageUrl>
-		<uri>/media/a058/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TIANKOV ORIENT</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tiankovorientfolk.png</imageUrl>
-		<uri>/media/a06i/index.m3u8</uri>
-	</items>
-	<items>
-		<name>HIT MIX MUSIC</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/hitmix.png</imageUrl>
-		<uri>/media/a06k/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BALKANIKA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/balkanika.png</imageUrl>
-		<uri>/media/a07h/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DSTV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/dstv.png</imageUrl>
-		<uri>/media/a07p/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DM SAT</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/dmsat.png</imageUrl>
-		<uri>/media/a05b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>THE VOICE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/thevoicetv.png</imageUrl>
-		<uri>/media/a00x/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CITY TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/city.png</imageUrl>
-		<uri>/media/a06m/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MAGIC TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/magictv.png</imageUrl>
-		<uri>/media/a06p/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BG MUSIC CHANNEL</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bgmusicchannel.png</imageUrl>
-		<uri>/media/a06l/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BOX TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/boxtv.png</imageUrl>
-		<uri>/media/a02g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DELUXE MUSIC HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/deluxemusic.png</imageUrl>
-		<uri>/media/a02j/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MTV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/mtv.png</imageUrl>
-		<uri>/media/a02f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MTV HITS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/mtvhits.png</imageUrl>
-		<uri>/media/a06q/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MTV 90s</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/mtv90s.png</imageUrl>
-		<uri>/media/a052/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MTV 80s</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/mtv80s.png</imageUrl>
-		<uri>/media/a053/index.m3u8</uri>
-	</items>
-	<items>
-		<name>VH1</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/vh1.png</imageUrl>
-		<uri>/media/a03h/index.m3u8</uri>
-	</items>
-	<items>
-		<name>MEZZO</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/mezzo.png</imageUrl>
-		<uri>/media/a06r/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BNT 2</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bnt2.png</imageUrl>
-		<uri>/media/a01m/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BNT 4</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bnt4.png</imageUrl>
-		<uri>/media/a03e/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TV +</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tvplus.png</imageUrl>
-		<uri>/media/a075/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TV EVROPA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tvevropa.png</imageUrl>
-		<uri>/media/a01d/index.m3u8</uri>
-	</items>
-	<items>
-		<name>7/8 TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/78tv.png</imageUrl>
-		<uri>/media/a05o/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ALFA TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/alfa.png</imageUrl>
-		<uri>/media/a01q/index.m3u8</uri>
-	</items>
-	<items>
-		<name>SKAT</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/skat.png</imageUrl>
-		<uri>/media/a061/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BULGARIA ON AIR</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bgonair.png</imageUrl>
-		<uri>/media/a03w/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EVROKOM</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/evrokom.png</imageUrl>
-		<uri>/media/a062/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AGRO TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/agrotv.png</imageUrl>
-		<uri>/media/a06t/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BULGARIA 24 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bulgaria24.png</imageUrl>
-		<uri>/media/a02z/index.m3u8</uri>
-	</items>
-	<items>
-		<name>TV 1</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/tv1.png</imageUrl>
-		<uri>/media/a06u/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BSTV HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bstv.png</imageUrl>
-		<uri>/media/a06c/index.m3u8</uri>
-	</items>
-	<items>
-		<name>1 PROGRAMA</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/purvaprograma.png</imageUrl>
-		<uri>/media/a08b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ROMA TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/romatv.png</imageUrl>
-		<uri>/media/a05c/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DAVINCI KIDS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/davincichannel.png</imageUrl>
-		<uri>/media/a02h/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DISNEY CHANNEL</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/disney.png</imageUrl>
-		<uri>/media/a04g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DISNEY JUNIOR</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/disneyjunior.png</imageUrl>
-		<uri>/media/a06g/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NICKELODEON</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/nickelodeon.png</imageUrl>
-		<uri>/media/a033/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NICK JUNIOR</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/nickjr.png</imageUrl>
-		<uri>/media/a032/index.m3u8</uri>
-	</items>
-	<items>
-		<name>NICK TOONS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/nicktoons.png</imageUrl>
-		<uri>/media/a07n/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CARTOON NETWORK</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cartoonnetwork.png</imageUrl>
-		<uri>/media/a01b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BOOMERANG</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/boomerang.png</imageUrl>
-		<uri>/media/a03x/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BABY TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/babytv.png</imageUrl>
-		<uri>/media/a034/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DUCK TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/ducktv.png</imageUrl>
-		<uri>/media/a06h/index.m3u8</uri>
-	</items>
-	<items>
-		<name>JIM JAM</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/jimjam.png</imageUrl>
-		<uri>/media/a06a/index.m3u8</uri>
-	</items>
-	<items>
-		<name>E-KIDS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/ekids.png</imageUrl>
-		<uri>/media/a02m/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ENGLISH CLUB TV</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/englishclubtv.png</imageUrl>
-		<uri>/media/a06f/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CNN INTERNATIONAL</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cnn.png</imageUrl>
-		<uri>/media/a03o/index.m3u8</uri>
-	</items>
-	<items>
-		<name>SKY NEWS</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/skynews.png</imageUrl>
-		<uri>/media/a068/index.m3u8</uri>
-	</items>
-	<items>
-		<name>CNBC EUROPE HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/cnbceurope.png</imageUrl>
-		<uri>/media/a06b/index.m3u8</uri>
-	</items>
-	<items>
-		<name>DEUTSCHE WELLE HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/deutschewelle.png</imageUrl>
-		<uri>/media/a04e/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RUSSIA TODAY HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/russiatoday.png</imageUrl>
-		<uri>/media/a03i/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RT DOCUMENTARY HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/rtdocumentary.png</imageUrl>
-		<uri>/media/a03j/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RUSSIA 24</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/russia24.png</imageUrl>
-		<uri>/media/a06v/index.m3u8</uri>
-	</items>
-	<items>
-		<name>BLOOMBERG EUROPE</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/bloomberg.png</imageUrl>
-		<uri>/media/a03l/index.m3u8</uri>
-	</items>
-	<items>
-		<name>EURONEWS HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/euronews.png</imageUrl>
-		<uri>/media/a04w/index.m3u8</uri>
-	</items>
-	<items>
-		<name>AL JAZEERA HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/aljazeera.png</imageUrl>
-		<uri>/media/a03m/index.m3u8</uri>
-	</items>
-	<items>
-		<name>FRANCE 24</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/france24.png</imageUrl>
-		<uri>/media/a04x/index.m3u8</uri>
-	</items>
-	<items>
-		<name>ZDF</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/zdf.png</imageUrl>
-		<uri>/media/a04q/index.m3u8</uri>
-	</items>
-	<items>
-		<name>VOX HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/vox.png</imageUrl>
-		<uri>/media/a064/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RTL HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/rtl.png</imageUrl>
-		<uri>/media/a02n/index.m3u8</uri>
-	</items>
-	<items>
-		<name>RTL 2 HD</name>
-		<type>video</type>
-		<imageUrl>https://livebgtv.stream/logos/rtl2.png</imageUrl>
-		<uri>/media/a02c/index.m3u8</uri>
-	</items>
-</root>
+#EXTM3U
+#EXTINF:0,{
+    "name": "LiveBGTV.Stream - TV",
+#EXTINF:0,    "imageUrl": "https://livebgtv.stream/tvlistimage.png",
+    "updateUrl": "https://livebgtv.stream/bg.json",
+#EXTINF:0,    "key": "bBjiqUgS8adByi5fuA1J5m55xpga7TlvbQz001id+0A=",
+    "usesBalancer": false,
+#EXTINF:0,    "baseUrl": "https://s001.livebgtv.stream",
+    "hashParam": "h",
+#EXTINF:0,    "expireParam": "e",
+    "expireTime": 43200,
+#EXTINF:0,    "items": [
+        {
+#EXTINF:0,            "name": "BNT 1 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bnt1.png",
+            "uri": "/media/a01n/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BTV HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/btv.png",
+            "uri": "/media/a01g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NOVA HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/novatv.png",
+            "uri": "/media/a012/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NOVA NEWS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/novanews.png",
+            "uri": "/media/a02u/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BTV ACTION HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/btvaction.png",
+            "uri": "/media/a016/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BTV CINEMA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/btvcinema.png",
+            "uri": "/media/a03s/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BTV COMEDY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/btvcomedy.png",
+            "uri": "/media/a03r/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BTV LADY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/btvlady.png",
+            "uri": "/media/a01e/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DIEMA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/diema.png",
+            "uri": "/media/a03u/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DIEMA FAMILY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/diemafamily.png",
+            "uri": "/media/a017/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "KINO NOVA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/kinonova.png",
+            "uri": "/media/a03t/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FOX",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fox.png",
+            "uri": "/media/a01f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FOX CRIME",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/foxcrime.png",
+            "uri": "/media/a05f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FOX LIFE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/foxlife.png",
+            "uri": "/media/a02s/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BNT 3 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bnt3.png",
+            "uri": "/media/a060/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EUROSPORT 1 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/eurosport1.png",
+            "uri": "/media/a00y/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EUROSPORT 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/eurosport2.png",
+            "uri": "/media/a04c/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DIEMA SPORT HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/diemasport.png",
+            "uri": "/media/a037/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DIEMA SPORT 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/diemasport2.png",
+            "uri": "/media/a01l/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MAX SPORT 1 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/maxsport1.png",
+            "uri": "/media/a03f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MAX SPORT 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/maxsport2.png",
+            "uri": "/media/a00u/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MAX SPORT 3 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/maxsport3.png",
+            "uri": "/media/a038/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MAX SPORT 4 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/maxsport4.png",
+            "uri": "/media/a05q/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NOVA SPORT HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/novasport.png",
+            "uri": "/media/a079/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RING BG HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/ring.png",
+            "uri": "/media/a02x/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "SPORT+ HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/sportplus.png",
+            "uri": "/media/a05r/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "B1B ACTION",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/b1b.png",
+            "uri": "/media/a077/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AUTO MOTOR SPORT HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/automotorsport.png",
+            "uri": "/media/a07c/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TRACE SPORT STARS HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tracesportstars.png",
+            "uri": "/media/a07a/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EDGE SPORT HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/edgesport.png",
+            "uri": "/media/a07b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EXTREME SPORTS HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/extremesports.png",
+            "uri": "/media/a06d/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "F+",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fplus.png",
+            "uri": "/media/a071/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FIGHTBOX",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fightbox.png",
+            "uri": "/media/a20a/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AXN",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/axn.png",
+            "uri": "/media/a018/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AXN WHITE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/axnwhite.png",
+            "uri": "/media/a010/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AXN BLACK",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/axnblack.png",
+            "uri": "/media/a01k/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MOVIESTAR HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/moviestar.png",
+            "uri": "/media/a046/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HBO HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hbo.png",
+            "uri": "/media/a011/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HBO 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hbo2.png",
+            "uri": "/media/a01i/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HBO 3 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hbo3.png",
+            "uri": "/media/a01o/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CINEMAX HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cinemax.png",
+            "uri": "/media/a01j/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CINEMAX 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cinemax2.png",
+            "uri": "/media/a014/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FILMBOX EXTRA HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/filmboxtrahd.png",
+            "uri": "/media/a07w/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FILMBOX STARS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/filmboxstars.png",
+            "uri": "/media/a07v/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ACTION+",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/actionplus.png",
+            "uri": "/media/a072/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CINEMA+",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cinemaplus.png",
+            "uri": "/media/a073/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "COMEDY+",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/comedyplus.png",
+            "uri": "/media/a074/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AMC",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/amc.png",
+            "uri": "/media/a076/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EPIC DRAMA HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/epicdrama.png",
+            "uri": "/media/a07d/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TV 1000",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tv1000.png",
+            "uri": "/media/a01p/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DISCOVERY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/discovery.png",
+            "uri": "/media/a03g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DISCOVERY SCIENCE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/discoveryscience.png",
+            "uri": "/media/a042/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "INVESTIGATION DISCOVERY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/investigationdiscovery.png",
+            "uri": "/media/a07r/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HISTORY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/history.png",
+            "uri": "/media/a01a/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HISTORY 2",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/h2.png",
+            "uri": "/media/a07g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DOCUBOX HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/docubox.png",
+            "uri": "/media/a07x/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "VIASAT EXPLORE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/viasatexplore.png",
+            "uri": "/media/a03y/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "VIASAT HISTORY HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/viasathistory.png",
+            "uri": "/media/a03z/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "VIASAT NATURE HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/viasatnature.png",
+            "uri": "/media/a040/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FOOD NETWORK HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/foodnetwork.png",
+            "uri": "/media/a06z/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CRIME AND INVESTIGATION",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/crimeandinvestigation.png",
+            "uri": "/media/a06e/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CBS REALITY",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cbsreality.png",
+            "uri": "/media/a078/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ANIMAL PLANET",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/animalplanet.png",
+            "uri": "/media/a07f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NATIONAL GEOGRAPHIC",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/natgeo.png",
+            "uri": "/media/a01h/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NAT GEO WILD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/natgeowild.png",
+            "uri": "/media/a036/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TRAVEL CHANNEL",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/travelchannel.png",
+            "uri": "/media/a00b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "WILD TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/wildtv.png",
+            "uri": "/media/a07e/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "24 KITCHEN",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/24kitchen.png",
+            "uri": "/media/a00z/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TLC",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tlc.png",
+            "uri": "/media/a019/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FASHION TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fashiontv.png",
+            "uri": "/media/a06s/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HOBBY TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hobbytv.png",
+            "uri": "/media/a02l/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HOBBY LOV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hobbylov.png",
+            "uri": "/media/a070/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "PLANETA HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/planetahd.png",
+            "uri": "/media/a07z/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "PLANETA FOLK",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/planetafolk.png",
+            "uri": "/media/a055/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FEN TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fentv.png",
+            "uri": "/media/a07i/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FEN FOLK",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/fenfolk.png",
+            "uri": "/media/a06j/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FOLKLOR TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/folklor.png",
+            "uri": "/media/a02r/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TIANKOV FOLK",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tiankovfolk.png",
+            "uri": "/media/a058/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TIANKOV ORIENT",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tiankovorientfolk.png",
+            "uri": "/media/a06i/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "HIT MIX MUSIC",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/hitmix.png",
+            "uri": "/media/a06k/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BALKANIKA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/balkanika.png",
+            "uri": "/media/a07h/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DSTV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/dstv.png",
+            "uri": "/media/a07p/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DM SAT",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/dmsat.png",
+            "uri": "/media/a05b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "THE VOICE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/thevoicetv.png",
+            "uri": "/media/a00x/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CITY TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/city.png",
+            "uri": "/media/a06m/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MAGIC TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/magictv.png",
+            "uri": "/media/a06p/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BG MUSIC CHANNEL",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bgmusicchannel.png",
+            "uri": "/media/a06l/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BOX TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/boxtv.png",
+            "uri": "/media/a02g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DELUXE MUSIC HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/deluxemusic.png",
+            "uri": "/media/a02j/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MTV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/mtv.png",
+            "uri": "/media/a02f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MTV HITS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/mtvhits.png",
+            "uri": "/media/a06q/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MTV 90s",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/mtv90s.png",
+            "uri": "/media/a052/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MTV 80s",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/mtv80s.png",
+            "uri": "/media/a053/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "VH1",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/vh1.png",
+            "uri": "/media/a03h/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "MEZZO",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/mezzo.png",
+            "uri": "/media/a06r/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BNT 2",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bnt2.png",
+            "uri": "/media/a01m/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BNT 4",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bnt4.png",
+            "uri": "/media/a03e/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TV +",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tvplus.png",
+            "uri": "/media/a075/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TV EVROPA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tvevropa.png",
+            "uri": "/media/a01d/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "7/8 TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/78tv.png",
+            "uri": "/media/a05o/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ALFA TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/alfa.png",
+            "uri": "/media/a01q/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "SKAT",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/skat.png",
+            "uri": "/media/a061/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BULGARIA ON AIR",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bgonair.png",
+            "uri": "/media/a03w/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EVROKOM",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/evrokom.png",
+            "uri": "/media/a062/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AGRO TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/agrotv.png",
+            "uri": "/media/a06t/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BULGARIA 24 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bulgaria24.png",
+            "uri": "/media/a02z/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "TV 1",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/tv1.png",
+            "uri": "/media/a06u/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BSTV HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bstv.png",
+            "uri": "/media/a06c/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "1 PROGRAMA",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/purvaprograma.png",
+            "uri": "/media/a08b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ROMA TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/romatv.png",
+            "uri": "/media/a05c/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DAVINCI KIDS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/davincichannel.png",
+            "uri": "/media/a02h/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DISNEY CHANNEL",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/disney.png",
+            "uri": "/media/a04g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DISNEY JUNIOR",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/disneyjunior.png",
+            "uri": "/media/a06g/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NICKELODEON",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/nickelodeon.png",
+            "uri": "/media/a033/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NICK JUNIOR",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/nickjr.png",
+            "uri": "/media/a032/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "NICK TOONS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/nicktoons.png",
+            "uri": "/media/a07n/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CARTOON NETWORK",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cartoonnetwork.png",
+            "uri": "/media/a01b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BOOMERANG",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/boomerang.png",
+            "uri": "/media/a03x/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BABY TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/babytv.png",
+            "uri": "/media/a034/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DUCK TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/ducktv.png",
+            "uri": "/media/a06h/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "JIM JAM",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/jimjam.png",
+            "uri": "/media/a06a/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "E-KIDS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/ekids.png",
+            "uri": "/media/a02m/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ENGLISH CLUB TV",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/englishclubtv.png",
+            "uri": "/media/a06f/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CNN INTERNATIONAL",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cnn.png",
+            "uri": "/media/a03o/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "SKY NEWS",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/skynews.png",
+            "uri": "/media/a068/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "CNBC EUROPE HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/cnbceurope.png",
+            "uri": "/media/a06b/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "DEUTSCHE WELLE HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/deutschewelle.png",
+            "uri": "/media/a04e/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RUSSIA TODAY HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/russiatoday.png",
+            "uri": "/media/a03i/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RT DOCUMENTARY HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/rtdocumentary.png",
+            "uri": "/media/a03j/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RUSSIA 24",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/russia24.png",
+            "uri": "/media/a06v/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "BLOOMBERG EUROPE",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/bloomberg.png",
+            "uri": "/media/a03l/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "EURONEWS HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/euronews.png",
+            "uri": "/media/a04w/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "AL JAZEERA HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/aljazeera.png",
+            "uri": "/media/a03m/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "FRANCE 24",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/france24.png",
+            "uri": "/media/a04x/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "ZDF",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/zdf.png",
+            "uri": "/media/a04q/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "VOX HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/vox.png",
+            "uri": "/media/a064/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RTL HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/rtl.png",
+            "uri": "/media/a02n/index.m3u8"
+#EXTINF:0,        },
+        {
+#EXTINF:0,            "name": "RTL 2 HD",
+            "type": "video",
+#EXTINF:0,            "imageUrl": "https://livebgtv.stream/logos/rtl2.png",
+            "uri": "/media/a02c/index.m3u8"
+#EXTINF:0,        }
+    ]
+#EXTINF:0,}
