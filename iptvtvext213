@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0,БНТ1
-https://s001.livebgtv.stream/media/a01n/index.m3u8?h=B_TNAbI1PsBrDvHlAXQpIA&e=1622421965&token=3d14c48b37809d4ae76a5050198bfc1d
+http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=495238&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOTowOTozMSBQTSZoYXNoX3ZhbHVlPXkxTVoycjBTNG9RVWFjUktQb3JwekE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,BTV
-https://s001.livebgtv.stream/media/a01g/index.m3u8?h=gvlT8dfEZGBJDe4Ssp6VDQ&e=1622421596&token=d7495bd8d72b6d8389516bb85fb4a162
+http://51.15.197.47:2052/iptv/btv/chunks.m3u8?nimblesessionid=495240&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMDowOSBQTSZoYXNoX3ZhbHVlPXR1K3c3aUxzdVdvMjFrVGVsUWRibXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,NOVA HD
-https://s001.livebgtv.stream/media/a012/index.m3u8?h=HmNiv3_OhQOllCMneDA4vg&e=1622422047&token=1ad98fcc10f15bc70eb1e815183acc5f
+http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgODo1Mzo0MiBQTSZoYXNoX3ZhbHVlPU9LNHlOVFZ3Vi9pSXl4bWRIWjBGTkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,HBO
 https://s001.livebgtv.stream/media/a011/index.m3u8?h=4l7qyGArBoEeBBbmkoTWmw&e=1622422082&token=20a9c577be4f1e9038c5875d9bcc315e
 #EXTINF:0,HBO 2
@@ -12,25 +12,25 @@ https://s001.livebgtv.stream/media/a01i/index.m3u8?h=t8XO7fO3hwXhRiDUo-EV4Q&e=16
 #EXTINF:0,HBO 3
 https://da-player.com/playlists/60166b4c2eab405159323cc0/607d636762c122216f0bdbf5
 #EXTINF:0,BTV ACTION
-https://s001.livebgtv.stream/media/a016/index.m3u8?h=ej4DVdJRg2zxtVyN3we4ug&e=1622422157&token=f7afd71d00b0df2bfefe294b1757c49a
+http://51.15.197.47:2052/iptv/btvaction/chunks.m3u8?nimblesessionid=495246&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMToyOCBQTSZoYXNoX3ZhbHVlPUZDcnl1aDdnM0tjTjMwaW94czBOQ1E9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,BTV CINEMA
-https://s001.livebgtv.stream/media/a03s/index.m3u8?h=aJHxTG-Tq4HrhVSEVWLE_w&e=1622422178&token=8cac001a5d3c652ff35df49a0515b564
+http://51.15.197.47:2052/iptv/btvcinema/chunks.m3u8?nimblesessionid=495251&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjowMiBQTSZoYXNoX3ZhbHVlPTZMRlVjeWdqb09EQWZad1p1bmRXanc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,BTV COMEDY
-https://da-player.com/playlists/60166b4c2eab405159323cc0/607d636762c122216f0bdb92
+http://51.15.197.47:2052/iptv/btvcomedy/chunks.m3u8?nimblesessionid=495254&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjoyNCBQTSZoYXNoX3ZhbHVlPVJSUVFJZEJPVjlvZ1M2cm13MU1qTmc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,BTV LADY
-https://s001.livebgtv.stream/media/a01e/index.m3u8?h=nQ8Ep--UajAfKsty9UeEPQ&e=1622422217&token=a7ff4b904896ed6414e7a7e1c80bb3f7
+http://51.15.197.47:2052/iptv/btvlady/chunks.m3u8?nimblesessionid=495257&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjo0MSBQTSZoYXNoX3ZhbHVlPUU3YUZSNlVFOEtMWTgwTHJudDE1dkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,DIEMA
-https://s001.livebgtv.stream/media/a01e/index.m3u8?h=nQ8Ep--UajAfKsty9UeEPQ&e=1622422217&token=a7ff4b904896ed6414e7a7e1c80bb3f7
+http://51.15.197.47:2052/iptv/diema/chunks.m3u8?nimblesessionid=495260&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzowMSBQTSZoYXNoX3ZhbHVlPWlCQ29vUmEvVnpYUVhFK2N2WE5vVWc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,KINO NOVA
-https://s001.livebgtv.stream/media/a03t/index.m3u8?h=0IfOQnBmIkYfKe3Uww2vxw&e=1622422254&token=666c32e1d740b5544ab8eb87dfc6c72f
+http://51.15.197.47:2052/iptv/kinonova/chunks.m3u8?nimblesessionid=495265&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzoyMyBQTSZoYXNoX3ZhbHVlPTN1WDZQN3RlU1RQelg3eXMvVjVPTHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,DIEAMA FAMILY 
-https://s001.livebgtv.stream/media/a017/index.m3u8?h=lvU_rfXr_tvnmdjmpyBWaw&e=1622422285&token=9301e31a5275b3b69b4dc7e647e732ee
+http://51.15.197.47:2052/iptv/diemafamily/chunks.m3u8?nimblesessionid=495271&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzo0NiBQTSZoYXNoX3ZhbHVlPU9mZTR3aGtibVh3aTk2Lyt6ZHN4cHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX LIFE
-https://s001.livebgtv.stream/media/a02s/index.m3u8?h=XH0CkouaMj3z5kF1Px4YPQ&e=1622422300&token=ab623a02052451654ce7612252837927
+http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX CRIME
-https://s001.livebgtv.stream/media/a05f/index.m3u8?h=XnmLcQvKLAe9LeHkjBrTyQ&e=1622422341&token=67f47debe3702b5b19f567484538e5b0
+http://51.15.197.47:2052/iptv/foxcrime/chunks.m3u8?nimblesessionid=495282&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDozNyBQTSZoYXNoX3ZhbHVlPTlMdnczTTh3ZlJFRnJuSm9IY2FxUlE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX
-https://s001.livebgtv.stream/media/a01f/index.m3u8?h=WhMwtRhSxTBMMb79b2ciUw&e=1622422367&token=95a9b4ac3c23af052866064e49d1b032
+https://s76.gledaitv.co/hls/hd-fox-hd_hd720/index.m3u8?e=1622844923&hash=HgbQsUcDddQnXKq46aDPTQ
 #EXTINF:0,AXN
 https://s001.livebgtv.stream/media/a018/index.m3u8?h=quOqh44dooKX9ls_TY0qfw&e=1622422386&token=952ce5643a31769771ea842ac191e15f
 #EXTINF:0,AXN BLACK
@@ -51,84 +51,99 @@ https://s92.sedemosmitv.com/hls/hd-diema-sport-2-hd_hd720/index.m3u8?e=162185542
 https://s92.sedemosmitv.com/hls/hd-nova-sport-hd_hd720/index.m3u8?e=1621855445&hash=JNJFZcn3jdFUohNHATTqug
 #EXTINF:0,BULGARIA ON AIR
 https://s115.sedemosmitv.com/hls/bulgaria-on-air/index.m3u8?e=1621855481&hash=pgmMIXxS9s006Lg2qhmj7w
-#EXTINF:0,България 24
+#EXTINF:0,MOVIESTAR
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,EPIC DRAMA
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,AMC
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,THE VOICE
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,TV1
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ЕВРОКОМ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,СКАТ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,АЛФА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ПЛАНЕТА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ФЕН ТВ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ПЛАНЕТА ФОЛК
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ПЛАНЕТА HD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ТЕЛЕМЕДИА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ПЪРВИ КАНАЛ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,ANIMAL PLANET
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,BOOMERANG
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,CARTOON NETWORK
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,CINEMAX
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,CINEMAX 2
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,DA VINCI LEARNING 
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,DISCOVERY CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,DISCOVERY SCIENCE
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,DISNEY CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,EUROSPORT
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,EUROSPORT 2
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,EXTREME SPORTS CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,FOOD NETWORK HD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,HISTORY 
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,JIMJAM
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,NAT GEO WILD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,NATIONAL GEOGRAPHIC
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,TLC BALKANS
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,VH1
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,VIASAT EXPLORER
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,VIASAT HISTORY
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,VIASAT TV 1000
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,CBS REALITY
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,CRIME AND INVESTIGATION
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,БНТ HD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,България 24
+#EXTINF:0,NOVANEWS
 http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,NICK JR.
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY 
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,BLOOMBERG TV BULGARIA
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,VIVACOM ARENA
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,TV 78
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://46.249.82.226:82/hls/live/live.m3u8
+#EXTINF:0,DISNEY JUNIOR
+http://46.249.82.226:82/hls/live/live.m3u8
+
 
