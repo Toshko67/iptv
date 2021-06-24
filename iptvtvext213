@@ -24,7 +24,7 @@ https://s100.sedemosmitv.com/hls/diema/index.m3u8?e=1624542575&hash=5azrMwVx9VFD
 #EXTINF:0,KINO NOVA
 https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624542603&hash=viPBGk-ab1fcoR3_GGPxYw
 #EXTINF:0,DIEAMA FAMILY 
-https://s115.sedemosmitv.com/hls/diema-family/index.m3u8?e=1624542636&hash=UqHD_4EDiNS8EC35rbnQAw
+http://dragoniptv.iptf.me:8080/123/123/25572?checkedby:iptvcat.com
 #EXTINF:0,FOX LIFE
 http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX CRIME
