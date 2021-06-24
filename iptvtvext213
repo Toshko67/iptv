@@ -1,117 +1,117 @@
 #EXTM3U
-#EXTINF:0,БНТ1
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/bnt1.png" ,БНТ1
 http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=495238&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOTowOTozMSBQTSZoYXNoX3ZhbHVlPXkxTVoycjBTNG9RVWFjUktQb3JwekE9PSZ2YWxpZG1pbnV0ZXM9NjA=
-#EXTINF:0,BTV
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btv.png" ,BTV
 https://en5.sof.btv.bg/alpha/alpha/chunklist_w981041146_tkYnRva2VuZW5kdGltZT0xNjI0NTU2NjgzJmJ0b2tlbnN0YXJ0dGltZT0xNjI0NTM3NzgzJmJ0b2tlbmhhc2g9TkVzeTJZUzd6bE5jQTY1YkFwd08zdGpQWFA0Y2psZkFIWVNRRGo5TFAwOD0=.m3u8
-#EXTINF:0,NOVA HD
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/novatv.png" ,NOVA HD
 http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgODo1Mzo0MiBQTSZoYXNoX3ZhbHVlPU9LNHlOVFZ3Vi9pSXl4bWRIWjBGTkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
-#EXTINF:0,HBO
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/hbo.png" ,HBO
 https://s001.livebgtv.stream/media/a011/index.m3u8?h=4l7qyGArBoEeBBbmkoTWmw&e=1622422082&token=20a9c577be4f1e9038c5875d9bcc315e
-#EXTINF:0,HBO 2
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/hbo2.png" ,HBO 2
 https://s001.livebgtv.stream/media/a01i/index.m3u8?h=t8XO7fO3hwXhRiDUo-EV4Q&e=1622422100&token=b6f88d60ae94a9bbd53664052c3f7acf
-#EXTINF:0,HBO 3
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/hbo3.png" ,HBO 3
 https://da-player.com/playlists/60166b4c2eab405159323cc0/607d636762c122216f0bdbf5
-#EXTINF:0,BTV ACTION
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btvaction.png" ,BTV ACTION
 http://185.163.244.10:204/play/bTVActionHD/83918914.m3u8 
-#EXTINF:0,BTV CINEMA
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btvcinema.png" ,BTV CINEMA
 https://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1624542473&hash=HgeObip0Ysbpdae2f8g3_g
-#EXTINF:0,BTV COMEDY
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btvcomedy.png" ,BTV COMEDY
 https://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1624547490&hash=2NFqq8xIrg81IkPpRV7__g
-#EXTINF:0,BTV LADY
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btvlady.png" ,BTV LADY
 https://s100.sedemosmitv.com/hls/btv-lady/index.m3u8?e=1624547471&hash=hMvccx0RtAdH3E5qMMG-rQ
-#EXTINF:0,DIEMA
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/diema.png" ,DIEMA
 https://s100.sedemosmitv.com/hls/diema/index.m3u8?e=1624542575&hash=5azrMwVx9VFD28l9DAJiaQ
-#EXTINF:0,KINO NOVA
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/kinonova.png" ,KINO NOVA
 https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624547447&hash=snHtVYGfTHdLm73IaIsrzQ
 #EXTINF:0 tvg-logo="https://livebgtv.stream/logos/diemafamily.png" ,DIEAMA FAMILY 
 https://s100.sedemosmitv.com/hls/diema-family/index.m3u8?e=1624547409&hash=GpBQjFcvRJ1xREu065qEvA
-#EXTINF:0,FOX LIFE
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/foxlife.png" ,FOX LIFE
 http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
-#EXTINF:0,FOX CRIME
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/foxcrime.png" ,FOX CRIME
 http://51.15.197.47:2052/iptv/foxcrime/chunks.m3u8?nimblesessionid=495282&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDozNyBQTSZoYXNoX3ZhbHVlPTlMdnczTTh3ZlJFRnJuSm9IY2FxUlE9PSZ2YWxpZG1pbnV0ZXM9NjA=
-#EXTINF:0,FOX
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/fox.png" ,FOX
 https://s76.gledaitv.co/hls/hd-fox-hd_hd720/index.m3u8?e=1622844923&hash=HgbQsUcDddQnXKq46aDPTQ
-#EXTINF:0,AXN
+#EXTINF:0 tvg-logo="" ,AXN
 https://s001.livebgtv.stream/media/a018/index.m3u8?h=quOqh44dooKX9ls_TY0qfw&e=1622422386&token=952ce5643a31769771ea842ac191e15f
-#EXTINF:0,AXN BLACK
+#EXTINF:0 tvg-logo="" ,AXN BLACK
 https://s001.livebgtv.stream/media/a01k/index.m3u8?h=bRl_0tc4nfGYvtdR7zufLQ&e=1622422425&token=6bdf6be9f2a430467d38a2d58592332a
-#EXTINF:0,AXN WHITE
+#EXTINF:0 tvg-logo="" ,AXN WHITE
 https://s001.livebgtv.stream/media/a010/index.m3u8?h=8riEoyVaf7q1kUXqqf3T6Q&e=1622422402&token=c82e8fe0c82ba66dc975acbd4370948e
-#EXTINF:0,BNT 4
+#EXTINF:0 tvg-logo="" ,BNT 4
 https://s76.gledaitv.co/hls/bnt-4/index.m3u8?e=1621855284&hash=5BO0pgacO_Tka-LNpitnTg
-#EXTINF:0,BNT 2
+#EXTINF:0 tvg-logo="" ,BNT 2
 https://s100.sedemosmitv.com/hls/bnt-2/index.m3u8?e=1621855330&hash=20xfm6bfzlwiEAQC_4iVzw
-#EXTINF:0,RING BG
+#EXTINF:0 tvg-logo="" ,RING BG
 https://s115.sedemosmitv.com/hls/hd-ring-bg-hd_hd720/index.m3u8?e=1621855350&hash=ZWFykaNStIQuUShmDdBZkQ
-#EXTINF:0,DIEAMA SPORT HD
+#EXTINF:0 tvg-logo="" ,DIEAMA SPORT HD
 https://s76.gledaitv.co/hls/hd-diema-sport-hd_hd720/index.m3u8?e=1621855386&hash=K3wYFC1cV2v-OTZgktbaPA
-#EXTINF:0,DIEMA SPORT 2 HD
+#EXTINF:0 tvg-logo="" ,DIEMA SPORT 2 HD
 https://s92.sedemosmitv.com/hls/hd-diema-sport-2-hd_hd720/index.m3u8?e=1621855425&hash=yw-L-qy4pxp5vsej-w_N8w
-#EXTINF:0,NOVA SPORT
+#EXTINF:0 tvg-logo="" ,NOVA SPORT
 https://s92.sedemosmitv.com/hls/hd-nova-sport-hd_hd720/index.m3u8?e=1621855445&hash=JNJFZcn3jdFUohNHATTqug
-#EXTINF:0,BULGARIA ON AIR
+#EXTINF:0 tvg-logo="" ,BULGARIA ON AIR
 https://s115.sedemosmitv.com/hls/bulgaria-on-air/index.m3u8?e=1621855481&hash=pgmMIXxS9s006Lg2qhmj7w
-#EXTINF:0,MOVIESTAR
+#EXTINF:0 tvg-logo="" ,MOVIESTAR
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,EPIC DRAMA
+#EXTINF:0 tvg-logo="" ,EPIC DRAMA
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,AMC
+#EXTINF:0 tvg-logo="" ,AMC
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,THE VOICE
+#EXTINF:0 tvg-logo="" ,THE VOICE
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,TV1
+#EXTINF:0 tvg-logo="" ,TV1
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ЕВРОКОМ
+#EXTINF:0 tvg-logo="" ,ЕВРОКОМ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,СКАТ
+#EXTINF:0 tvg-logo="" ,СКАТ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,АЛФА
+#EXTINF:0 tvg-logo="" ,АЛФА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ПЛАНЕТА
+#EXTINF:0 tvg-logo="" ,ПЛАНЕТА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ФЕН ТВ
+#EXTINF:0 tvg-logo="" ,ФЕН ТВ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ПЛАНЕТА ФОЛК
+#EXTINF:0 tvg-logo="" ,ПЛАНЕТА ФОЛК
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ПЛАНЕТА HD
+#EXTINF:0 tvg-logo="" ,ПЛАНЕТА HD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ТЕЛЕМЕДИА
+#EXTINF:0 tvg-logo="" ,ТЕЛЕМЕДИА
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ПЪРВИ КАНАЛ
+#EXTINF:0 tvg-logo="" ,ПЪРВИ КАНАЛ
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,ANIMAL PLANET
+#EXTINF:0 tvg-logo="" ,ANIMAL PLANET
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,BOOMERANG
+#EXTINF:0 tvg-logo="" ,BOOMERANG
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,CARTOON NETWORK
+#EXTINF:0 tvg-logo="" ,CARTOON NETWORK
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,CINEMAX
+#EXTINF:0 tvg-logo="" ,CINEMAX
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,CINEMAX 2
+#EXTINF:0 tvg-logo="" ,CINEMAX 2
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,DA VINCI LEARNING 
+#EXTINF:0 tvg-logo="" ,DA VINCI LEARNING 
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
+#EXTINF:0 tvg-logo="" ,DISCOVERY CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,DISCOVERY SCIENCE
+#EXTINF:0 tvg-logo="" ,DISCOVERY SCIENCE
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,DISNEY CHANNEL
+#EXTINF:0 tvg-logo="" ,DISNEY CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,EUROSPORT
+#EXTINF:0 tvg-logo="" ,EUROSPORT
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,EUROSPORT 2
+#EXTINF:0 tvg-logo="" ,EUROSPORT 2
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,EXTREME SPORTS CHANNEL
+#EXTINF:0 tvg-logo="" ,EXTREME SPORTS CHANNEL
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,FOOD NETWORK HD
+#EXTINF:0 tvg-logo="" ,FOOD NETWORK HD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,HISTORY 
+#EXTINF:0 tvg-logo="" ,HISTORY 
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,JIMJAM
+#EXTINF:0 tvg-logo="" ,JIMJAM
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,NAT GEO WILD
+#EXTINF:0 tvg-logo="" ,NAT GEO WILD
 http://46.249.82.226:82/hls/live/live.m3u8
-#EXTINF:0,NATIONAL GEOGRAPHIC
+#EXTINF:0 tvg-logo="" ,NATIONAL GEOGRAPHIC
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:0,TLC BALKANS
 http://46.249.82.226:82/hls/live/live.m3u8
