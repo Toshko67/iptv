@@ -12,19 +12,19 @@ https://s001.livebgtv.stream/media/a01i/index.m3u8?h=t8XO7fO3hwXhRiDUo-EV4Q&e=16
 #EXTINF:0,HBO 3
 https://da-player.com/playlists/60166b4c2eab405159323cc0/607d636762c122216f0bdbf5
 #EXTINF:0,BTV ACTION
-http://185.163.244.10:204/play/bTVActionHD/83918914.m3u8
+http://185.163.244.10:204/play/bTVActionHD/83918914.m3u8 
 #EXTINF:0,BTV CINEMA
 https://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1624542473&hash=HgeObip0Ysbpdae2f8g3_g
 #EXTINF:0,BTV COMEDY
-https://s76.gledaitv.co/hls/btv-comedy/index.m3u8?e=1624542538&hash=KCa8mPSH_3LQjRnxu_O1dA
+https://s100.sedemosmitv.com/hls/btv-comedy/index.m3u8?e=1624547490&hash=2NFqq8xIrg81IkPpRV7__g
 #EXTINF:0,BTV LADY
-http://www.seirsanduk.online/btv-lady-online
+https://s100.sedemosmitv.com/hls/btv-lady/index.m3u8?e=1624547471&hash=hMvccx0RtAdH3E5qMMG-rQ
 #EXTINF:0,DIEMA
 https://s100.sedemosmitv.com/hls/diema/index.m3u8?e=1624542575&hash=5azrMwVx9VFD28l9DAJiaQ
 #EXTINF:0,KINO NOVA
-https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624542603&hash=viPBGk-ab1fcoR3_GGPxYw
+https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624547447&hash=snHtVYGfTHdLm73IaIsrzQ
 #EXTINF:0,DIEAMA FAMILY 
-http://dragoniptv.iptf.me:8080/123/123/25572?checkedby:iptvcat.com
+https://s100.sedemosmitv.com/hls/diema-family/index.m3u8?e=1624547409&hash=GpBQjFcvRJ1xREu065qEvA
 #EXTINF:0,FOX LIFE
 http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX CRIME
