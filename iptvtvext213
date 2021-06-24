@@ -1,5 +1,3 @@
-"name": "LiveBGTV.Stream - TV",
-"imageUrl": "https://livebgtv.stream/tvlistimage.png",
 #EXTM3U
 #EXTINF:0 tvg-logo="https://livebgtv.stream/logos/bnt1.png" ,БНТ1
 http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=495238&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOTowOTozMSBQTSZoYXNoX3ZhbHVlPXkxTVoycjBTNG9RVWFjUktQb3JwekE9PSZ2YWxpZG1pbnV0ZXM9NjA=
