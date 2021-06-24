@@ -23,7 +23,7 @@ https://s100.sedemosmitv.com/hls/btv-lady/index.m3u8?e=1624547471&hash=hMvccx0Rt
 https://s100.sedemosmitv.com/hls/diema/index.m3u8?e=1624542575&hash=5azrMwVx9VFD28l9DAJiaQ
 #EXTINF:0,KINO NOVA
 https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624547447&hash=snHtVYGfTHdLm73IaIsrzQ
-#EXTINF:0,DIEAMA FAMILY 
+#EXTINF:0 tvg-logo="https://livebgtv.stream/logos/diemafamily.png" ,DIEAMA FAMILY 
 https://s100.sedemosmitv.com/hls/diema-family/index.m3u8?e=1624547409&hash=GpBQjFcvRJ1xREu065qEvA
 #EXTINF:0,FOX LIFE
 http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
