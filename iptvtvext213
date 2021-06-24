@@ -2,7 +2,7 @@
 #EXTINF:0,БНТ1
 http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=495238&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOTowOTozMSBQTSZoYXNoX3ZhbHVlPXkxTVoycjBTNG9RVWFjUktQb3JwekE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,BTV
-http://51.15.197.47:2052/iptv/btv/chunks.m3u8?nimblesessionid=495240&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMDowOSBQTSZoYXNoX3ZhbHVlPXR1K3c3aUxzdVdvMjFrVGVsUWRibXc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://en5.sof.btv.bg/alpha/alpha/chunklist_w981041146_tkYnRva2VuZW5kdGltZT0xNjI0NTU2NjgzJmJ0b2tlbnN0YXJ0dGltZT0xNjI0NTM3NzgzJmJ0b2tlbmhhc2g9TkVzeTJZUzd6bE5jQTY1YkFwd08zdGpQWFA0Y2psZkFIWVNRRGo5TFAwOD0=.m3u8
 #EXTINF:0,NOVA HD
 http://e102-ts.cdn.bg/nbg/nova/live/in_nova/live_720/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgODo1Mzo0MiBQTSZoYXNoX3ZhbHVlPU9LNHlOVFZ3Vi9pSXl4bWRIWjBGTkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,HBO
@@ -12,19 +12,19 @@ https://s001.livebgtv.stream/media/a01i/index.m3u8?h=t8XO7fO3hwXhRiDUo-EV4Q&e=16
 #EXTINF:0,HBO 3
 https://da-player.com/playlists/60166b4c2eab405159323cc0/607d636762c122216f0bdbf5
 #EXTINF:0,BTV ACTION
-https://s001.r8au41wg4ur76atwd03hiw6eg.top/media/a016/index.m3u8?h=xeb7yKSUqboiWM1CRrXFCw&e=1624437651&token=a5dbf8f7877ebfdefa27258f34f4b1e7
+http://185.163.244.10:204/play/bTVActionHD/83918914.m3u8
 #EXTINF:0,BTV CINEMA
-http://51.15.197.47:2052/iptv/btvcinema/chunks.m3u8?nimblesessionid=495251&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjowMiBQTSZoYXNoX3ZhbHVlPTZMRlVjeWdqb09EQWZad1p1bmRXanc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://s100.sedemosmitv.com/hls/btv-cinema/index.m3u8?e=1624542473&hash=HgeObip0Ysbpdae2f8g3_g
 #EXTINF:0,BTV COMEDY
-http://51.15.197.47:2052/iptv/btvcomedy/chunks.m3u8?nimblesessionid=495254&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjoyNCBQTSZoYXNoX3ZhbHVlPVJSUVFJZEJPVjlvZ1M2cm13MU1qTmc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://s76.gledaitv.co/hls/btv-comedy/index.m3u8?e=1624542538&hash=KCa8mPSH_3LQjRnxu_O1dA
 #EXTINF:0,BTV LADY
-http://51.15.197.47:2052/iptv/btvlady/chunks.m3u8?nimblesessionid=495257&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMjo0MSBQTSZoYXNoX3ZhbHVlPUU3YUZSNlVFOEtMWTgwTHJudDE1dkE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+http://www.seirsanduk.online/btv-lady-online
 #EXTINF:0,DIEMA
-http://51.15.197.47:2052/iptv/diema/chunks.m3u8?nimblesessionid=495260&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzowMSBQTSZoYXNoX3ZhbHVlPWlCQ29vUmEvVnpYUVhFK2N2WE5vVWc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://s100.sedemosmitv.com/hls/diema/index.m3u8?e=1624542575&hash=5azrMwVx9VFD28l9DAJiaQ
 #EXTINF:0,KINO NOVA
-http://51.15.197.47:2052/iptv/kinonova/chunks.m3u8?nimblesessionid=495265&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzoyMyBQTSZoYXNoX3ZhbHVlPTN1WDZQN3RlU1RQelg3eXMvVjVPTHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://s100.sedemosmitv.com/hls/kino-nova/index.m3u8?e=1624542603&hash=viPBGk-ab1fcoR3_GGPxYw
 #EXTINF:0,DIEAMA FAMILY 
-http://51.15.197.47:2052/iptv/diemafamily/chunks.m3u8?nimblesessionid=495271&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxMzo0NiBQTSZoYXNoX3ZhbHVlPU9mZTR3aGtibVh3aTk2Lyt6ZHN4cHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://s115.sedemosmitv.com/hls/diema-family/index.m3u8?e=1624542636&hash=UqHD_4EDiNS8EC35rbnQAw
 #EXTINF:0,FOX LIFE
 http://51.15.197.47:2052/iptv/foxlife/chunks.m3u8?nimblesessionid=495278&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOToxNDowOSBQTSZoYXNoX3ZhbHVlPWxENm15Ny9tL3FjMUFiZFRFeFlKemc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:0,FOX CRIME
