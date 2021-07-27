@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://livebgtv.stream/logos/bnt1.png" ,БНТ1
-http://51.15.197.47:2052/iptv/bnt1/chunks.m3u8?nimblesessionid=495238&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMjEgOTowOTozMSBQTSZoYXNoX3ZhbHVlPXkxTVoycjBTNG9RVWFjUktQb3JwekE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://drive.google.com/u/0/uc?id=1gB1J6MphF0-Mx-GeTxcAZrH8ts0Az1sX&export=download
 #EXTINF:0 tvg-logo="https://livebgtv.stream/logos/btv.png" ,BTV
 https://en5.sof.btv.bg/alpha/alpha/chunklist_w981041146_tkYnRva2VuZW5kdGltZT0xNjI0NTU2NjgzJmJ0b2tlbnN0YXJ0dGltZT0xNjI0NTM3NzgzJmJ0b2tlbmhhc2g9TkVzeTJZUzd6bE5jQTY1YkFwd08zdGpQWFA0Y2psZkFIWVNRRGo5TFAwOD0=.m3u8
 #EXTINF:0 tvg-logo="https://livebgtv.stream/logos/novatv.png" ,NOVA HD
