@@ -19,7 +19,7 @@ http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11125
 #EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="https://logos.kodibg.org/diema.png" group-title="Bulgaria",DIEMA
 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11132
 #EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMA FAMILY" tvg-logo="https://logos.kodibg.org/diemafamily.png" group-title="Bulgaria",DIEMA FAMILY
-http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11129
+https://s92.gledam.xyz/hls/diema-family/index.m3u8?e=1638379146&hash=jJDkP2dLPiJRvdjBFetSpw
 #EXTINF:-1 tvg-id="KinoNova" tvg-name="KINO NOVA" tvg-logo="https://logos.kodibg.org/kinonova.png" group-title="Bulgaria",KINO NOVA
 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11142
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://logos.kodibg.org/fox.png" group-title="Bulgaria",FOX
