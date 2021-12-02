@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.kodibg.org/dl.php"
 #EXTM3U url-tvg="http://m3u4u.com/epg/476rnm2me7czxx3yekgd"
 #EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1
-http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11118
+http://iptvmedia.live:8080/12810/7f788911/16353
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
 https://vd1.bweb.bg/hls/2110383625.m3u8?bt=mOchba3LcS7--OHG84xrXw&ex=1638479995
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
