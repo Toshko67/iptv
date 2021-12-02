@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1
 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11118
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
-https://s115.gledam.xyz/hls/hd-btv-hd_hd720/index.m3u8?e=1638382402&hash=wtJ-NxNHWwbTXgQtwQwTkA
+http://iptvmedia.live:8080/12810/7f788911/278802
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
-https://s76.gledam.xyz/hls/hd-nova-tv-hd_hd720/index.m3u8?e=1638366242&hash=2PbOSYAX_USn4SREq2OTBw
+https://lb-ts.cdn.bg/nbg/nova/live/at=O0M9MTg4LjI1NC4xMzQuMjM3O0U9MTYzODQ4NDUxMDtBPTE7Sz0xMTtQPTAxMTEwO1M9ZWYyZmM1NTNjYjY0YmY3MjI2OTg1ODU1MzA3Zjc0MzlkYWJiNmQ5MQ==/in_nova/live_1080/chunks.m3u8
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11141
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
