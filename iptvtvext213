@@ -9,7 +9,7 @@ https://lb-ts.cdn.bg/nbg/nova/live/at=O0M9MTg4LjI1NC4xMzQuMjM3O0U9MTYzODQ4NDUxMD
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
-http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11121
+https://list.iptvcat.com/my_list/s/890050c22c3f40d2f3cc0d615f47f04c.m3u8
 #EXTINF:-1 tvg-id="bTVCinema" tvg-name="BTV CINEMA" tvg-logo="https://livebgtv.stream/logos/btvcinema.png" group-title="Bulgaria",BTV CINEMA
 http://tv.rapidiptv.tvip.xyz:80/40JYGbJMj5zF53/y7qTaQC4WvFN83/11122
 #EXTINF:-1 tvg-id="bTVComedy" tvg-name="BTV COMEDY" tvg-logo="https://logos.kodibg.org/btvcomedy.png" group-title="Bulgaria",BTV COMEDY
