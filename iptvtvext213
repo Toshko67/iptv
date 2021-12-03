@@ -3,9 +3,9 @@
 #EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1
 http://iptvmedia.live:8080/12810/7f788911/16353
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
-https://vd1.bweb.bg/hls/2110383625.m3u8?bt=mOchba3LcS7--OHG84xrXw&ex=1638479995
+http://iptvmedia.live:8080/12810/7f788911/278802
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
-https://lb-ts.cdn.bg/nbg/nova/live/at=O0M9MTg4LjI1NC4xMzQuMjM3O0U9MTYzODQ4NDUxMDtBPTE7Sz0xMTtQPTAxMTEwO1M9ZWYyZmM1NTNjYjY0YmY3MjI2OTg1ODU1MzA3Zjc0MzlkYWJiNmQ5MQ==/in_nova/live_1080/chunks.m3u8
+http://iptvmedia.live:8080/12810/7f788911/16369
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
@@ -23,11 +23,11 @@ http://iptvmedia.live:8080/12810/7f788911/16361
 #EXTINF:-1 tvg-id="KinoNova" tvg-name="KINO NOVA" tvg-logo="https://logos.kodibg.org/kinonova.png" group-title="Bulgaria",KINO NOVA
 http://iptvmedia.live:8080/12810/7f788911/16362
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://logos.kodibg.org/fox.png" group-title="Bulgaria",FOX
-https://list.iptvcat.com/my_list/s/53fbf4db863ea9c40d6fb75cb7c19282.m3u8
+http://iptvmedia.live:8080/12810/7f788911/46819
 #EXTINF:-1 tvg-id="FOXCrime" tvg-name="FOX CRIME" tvg-logo="https://logos.kodibg.org/foxcrime.png" group-title="Bulgaria",FOX CRIME
-https://list.iptvcat.com/my_list/s/d5f3c32cba5a3a9bd21d9e249acce53d.m3u8
+http://iptvmedia.live:8080/12810/7f788911/23396
 #EXTINF:-1 tvg-id="FOXLife" tvg-name="FOX LIFE" tvg-logo="https://logos.kodibg.org/foxlife.png" group-title="Bulgaria",FOX LIFE
-https://list.iptvcat.com/my_list/s/73eef21df79868874072581f623b82bf.m3u8
+http://iptvmedia.live:8080/12810/7f788911/23397
 #EXTINF:-1 tvg-id="BNT3" tvg-name="BNT 3" tvg-logo="https://logos.kodibg.org/bnt3.png" group-title="Bulgaria",BNT 3
 https://tiny.one/maportal/sLwsfg88S31L3834/ZZg3n1603/28209
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport" tvg-logo="https://logos.kodibg.org/eurosport1.png" group-title="Bulgaria",Eurosport
