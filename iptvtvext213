@@ -5,7 +5,7 @@ http://iptvmedia.live:8080/12810/7f788911/16353
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
 http://iptvmedia.live:8080/12810/7f788911/278802
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
-http://iptvmedia.live:8080/12810/7f788911/16369
+http://mytv.fun:8080/order10235/7hndo0142c/5971
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
