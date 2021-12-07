@@ -19,7 +19,7 @@ http://xfire.one:88/test1/test2/11354
 #EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="https://logos.kodibg.org/diema.png" group-title="Bulgaria",DIEMA
 http://iptvmedia.live:8080/12810/7f788911/16364
 #EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMA FAMILY" tvg-logo="https://logos.kodibg.org/diemafamily.png" group-title="Bulgaria",DIEMA FAMILY
-http://iptvmedia.live:8080/12810/7f788911/16361
+https://e107-ts.cdn.bg/nbg/novaplay-vod/ftpupload/at=O0M9MTg4LjI1NC4xMzQuMjM3O0U9MTYzODk1MzEyMztBPTE7Sz0xMTtQPTAxMTEwO1M9ODk2YzQ5M2Q2YzFjNWFjMGY1YTU0NjgwNjBjNDJkNjZkODc0MGJkYg==/6762/videos/ne-puskai-rykata-mi-2021-12-07.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoNova" tvg-name="KINO NOVA" tvg-logo="https://logos.kodibg.org/kinonova.png" group-title="Bulgaria",KINO NOVA
 http://iptvmedia.live:8080/12810/7f788911/16362
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://logos.kodibg.org/fox.png" group-title="Bulgaria",FOX
