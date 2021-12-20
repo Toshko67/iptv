@@ -5,7 +5,7 @@ http://iptvmedia.live:8080/12810/7f788911/16353
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
 http://iptvmedia.live:8080/12810/7f788911/278802
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
-http://mytv.fun:8080/order10235/7hndo0142c/5971
+http://iptvmedia.live:8080/12810/7f788911/16369
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
@@ -15,11 +15,11 @@ http://iptvmedia.live:8080/12810/7f788911/16360
 #EXTINF:-1 tvg-id="bTVComedy" tvg-name="BTV COMEDY" tvg-logo="https://logos.kodibg.org/btvcomedy.png" group-title="Bulgaria",BTV COMEDY
 http://iptvmedia.live:8080/12810/7f788911/16358
 #EXTINF:-1 tvg-id="bTVLady" tvg-name="BTV LADY" tvg-logo="https://livebgtv.stream/logos/btvlady.png" group-title="Bulgaria",BTV LADY
-http://xfire.one:88/test1/test2/11354
+http://iptvmedia.live:8080/12810/7f788911/16363
 #EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="https://logos.kodibg.org/diema.png" group-title="Bulgaria",DIEMA
 http://iptvmedia.live:8080/12810/7f788911/16364
 #EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMA FAMILY" tvg-logo="https://logos.kodibg.org/diemafamily.png" group-title="Bulgaria",DIEMA FAMILY
-https://e107-ts.cdn.bg/nbg/novaplay-vod/ftpupload/at=O0M9MTg4LjI1NC4xMzQuMjM3O0U9MTYzODk1MzEyMztBPTE7Sz0xMTtQPTAxMTEwO1M9ODk2YzQ5M2Q2YzFjNWFjMGY1YTU0NjgwNjBjNDJkNjZkODc0MGJkYg==/6762/videos/ne-puskai-rykata-mi-2021-12-07.smil/playlist.m3u8
+http://iptvmedia.live:8080/12810/7f788911/16361
 #EXTINF:-1 tvg-id="KinoNova" tvg-name="KINO NOVA" tvg-logo="https://logos.kodibg.org/kinonova.png" group-title="Bulgaria",KINO NOVA
 http://iptvmedia.live:8080/12810/7f788911/16362
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://logos.kodibg.org/fox.png" group-title="Bulgaria",FOX
