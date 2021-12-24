@@ -1,16 +1,8 @@
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 98
-https://cdns42.youdbox.org/d/l6w55bzmxm3qv3jsoknne3ovotemmbw62qfo4phfehgxdxsicvp5q4qlcbhhj7g2ur5dtvmc/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 99
-https://pmxd41.youdbox.org/d/l2wqbczmxm3qv3jsoknmw2uxhl6v66zhjdsl5yrczse4syhkytwdf24sylznm3b7lwafiukb/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 100
-https://stox81.youdbox.org/d/lkwsvcbmxm3qv3jsokniepuahma4koblgcfbbbzyu6fztorhhiiekbipcvbrhmxroxxrbbuc/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 101
-https://stox82.youdbox.org/d/lwwxfdjmxm3qv3jsoknmano3mu73uyld7p74cxe3fx54lcksarckea6ag7fxnigvfcstzygu/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 102
-https://stox82.youdbox.org/d/lww2z4jmxm3qv3jsoonnwogtpch55zkaei75dgeygigwjau63r67vqu6i6n64i4imfgdzjvm/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 103
-https://pmxd41.youdbox.org/d/l2wrh7rmxm3qv3jsoonnq2eapw6rnzzpbo2noup66ubicrijjydnxc3bqyzgjerbu6pu73ba/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 104
-https://pmxd41.youdbox.org/d/l2wwdyrmxm3qv3jsoonnmoupnocm5jgfxklnbwrnno7bhudzpjyw3r5xrl2ena7ga42ur7df/video.mp4
-#EXTINF:-1 group-title="Bulgaria", Свободен Дух епизод 105
-https://pmxd41.youdbox.org/d/l2wvjzrmxm3qv3jspsnn6m6tnkcaqmttwmpo7l3ylpguo3rhoihsmpi245vizhpx3fquk4z5/video.mp4
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000
+hd-nova-tv-hd_low/index.m3u8?e=1640371779&hash=9tSnU4Zzudospv1_DgVBmA
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000
+hd-nova-tv-hd_mid/index.m3u8?e=1640371779&hash=9tSnU4Zzudospv1_DgVBmA
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000
+hd-nova-tv-hd_hd720/index.m3u8?e=1640371779&hash=9tSnU4Zzudospv1_DgVBmA
