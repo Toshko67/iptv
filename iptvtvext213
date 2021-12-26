@@ -3,19 +3,19 @@
 #EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1
 http://iptvmedia.live:8080/12810/7f788911/16353
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
-http://iptvmedia.live:8080/12810/7f788911/278802
+https://hls.btv.bg.sof.cmestatic.com/61128011/livestream-0/chunklist_w1906518439.m3u8?eyJtZWQiOjYxMTI4MDExLCJsaWMiOiJlMDA2MzY2ZWMwNmU2MDI2YzFiYjZhM2YwM2ZmYjgyNiIsInByb2QiOjUxMDMsImRldiI6ImM5YzQ3ZjMzODI2MjgyZjc5ZTQ2MDRmNzNmYmI3MWJmIiwiYWlkIjoiIn0=
 #EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
 http://iptvmedia.live:8080/12810/7f788911/16369
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 http://46.249.82.226:82/hls/live/live.m3u8
 #EXTINF:-1 tvg-id="bTVAction" tvg-name="BTV ACTION" tvg-logo="https://logos.kodibg.org/btvaction.png" group-title="Bulgaria",BTV ACTION
-http://iptvmedia.live:8080/12810/7f788911/16373
+https://hls.btv.bg.sof.cmestatic.com/61173942/61173942_tv.smil/chunklist_w1788395217_b800000.m3u8?eyJtZWQiOjYxMTczOTQyLCJsaWMiOiJlMDA2MzY2ZWMwNmU2MDI2YzFiYjZhM2YwM2ZmYjgyNiIsInByb2QiOjU3NzQsImRldiI6ImM5YzQ3ZjMzODI2MjgyZjc5ZTQ2MDRmNzNmYmI3MWJmIiwiYWlkIjoiIn0=
 #EXTINF:-1 tvg-id="bTVCinema" tvg-name="BTV CINEMA" tvg-logo="https://livebgtv.stream/logos/btvcinema.png" group-title="Bulgaria",BTV CINEMA
-http://iptvmedia.live:8080/12810/7f788911/16360
+https://hls.btv.bg.sof.cmestatic.com/61173940/61173940_tv.smil/chunklist_w1243571812_b800000.m3u8?eyJtZWQiOjYxMTczOTQwLCJsaWMiOiJlMDA2MzY2ZWMwNmU2MDI2YzFiYjZhM2YwM2ZmYjgyNiIsInByb2QiOjIxNjg5LCJkZXYiOiJjOWM0N2YzMzgyNjI4MmY3OWU0NjA0ZjczZmJiNzFiZiIsImFpZCI6IiJ9
 #EXTINF:-1 tvg-id="bTVComedy" tvg-name="BTV COMEDY" tvg-logo="https://logos.kodibg.org/btvcomedy.png" group-title="Bulgaria",BTV COMEDY
-http://iptvmedia.live:8080/12810/7f788911/16358
+https://en3.sof.btv.bg/61173941/_definst_/61173941-2.stream/key_w1826976469_b800000.m3u8key?wowzasessionid=1826976469&eyJtZWQiOjYxMTczOTQxLCJsaWMiOiJlMDA2MzY2ZWMwNmU2MDI2YzFiYjZhM2YwM2ZmYjgyNiIsInByb2QiOjIxNjg4LCJkZXYiOiJjOWM0N2YzMzgyNjI4MmY3OWU0NjA0ZjczZmJiNzFiZiIsImFpZCI6IiJ9
 #EXTINF:-1 tvg-id="bTVLady" tvg-name="BTV LADY" tvg-logo="https://livebgtv.stream/logos/btvlady.png" group-title="Bulgaria",BTV LADY
-http://iptvmedia.live:8080/12810/7f788911/16363
+https://hls.btv.bg.sof.cmestatic.com/61173943/61173943_ios.smil/chunklist_w1816299429_b800000.m3u8?eyJtZWQiOjYxMTczOTQzLCJsaWMiOiJlMDA2MzY2ZWMwNmU2MDI2YzFiYjZhM2YwM2ZmYjgyNiIsInByb2QiOjIxNjkwLCJkZXYiOiJjOWM0N2YzMzgyNjI4MmY3OWU0NjA0ZjczZmJiNzFiZiIsImFpZCI6IiJ9
 #EXTINF:-1 tvg-id="Diema" tvg-name="DIEMA" tvg-logo="https://logos.kodibg.org/diema.png" group-title="Bulgaria",DIEMA
 http://iptvmedia.live:8080/12810/7f788911/16364
 #EXTINF:-1 tvg-id="DiemaFamily" tvg-name="DIEMA FAMILY" tvg-logo="https://logos.kodibg.org/diemafamily.png" group-title="Bulgaria",DIEMA FAMILY
