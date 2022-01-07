@@ -39,7 +39,7 @@ https://tiny.one/maportal/sLwsfg88S31L3834/ZZg3n1603/11131
 #EXTINF:-1 tvg-id="DiemaSport2" tvg-name="Diema Sport 2" tvg-logo="https://logos.kodibg.org/diemasport2.png" group-title="Bulgaria",Diema Sport 2
 https://tiny.one/maportal/sLwsfg88S31L3834/ZZg3n1603/11130
 #EXTINF:-1 tvg-id="MAXSport1" tvg-name="Max Sport 1" tvg-logo="https://logos.kodibg.org/maxsport1.png" group-title="Bulgaria",Max Sport 1
-https://delivery-node-azim.voe-network.net/hls/6oarmik4zy3lcszcr2smdnrawd33zt2wahhh6bsfgrqrhvhtn6cptfylvf4a/index-v1-a1.m3u8
+https://delivery-node-nahas.voe-network.net/hls/,6oarnyq2g43lcszcr3b4dmrivo64wt73rem7gw5ccvwoq3jmz4ws3c6ucp7a,.urlset/master.m3u8
 #EXTINF:-1 tvg-id="MAXSport2" tvg-name="Max Sport 2" tvg-logo="https://logos.kodibg.org/maxsport2.png" group-title="Bulgaria",Max Sport 2
 https://tiny.one/maportal/sLwsfg88S31L3834/ZZg3n1603/23443
 #EXTINF:-1 tvg-id="MAXSport3" tvg-name="Max Sport 3" tvg-logo="https://logos.kodibg.org/maxsport3.png" group-title="Bulgaria",Max Sport 3
