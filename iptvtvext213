@@ -3,8 +3,7 @@
 #EXTINF:-1 tvg-id="BNT1" tvg-name="BNT 1" tvg-logo="https://livebgtv.stream/logos/bnt1.png" group-title="Bulgaria",BNT 1
 http://line.pito-tv.com:80/4BUI9oLxEK/Gy4pAPVmh4/2087
 #EXTINF:-1 tvg-id="bTV" tvg-name="BTV" tvg-logo="https://livebgtv.stream/logos/btv.png" group-title="Bulgaria",BTV
-http://line.pito-tv.com:80/4BUI9oLxEK/Gy4pAPVmh4/2071
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
+https://www129.akamai-cdn-content.com/hls/tysxfhza7k6oj6cdacwrnribfqpcf4ptjnzwhikrik4bxge7uy6vogquj2eq/index-v1-a1.m3u8#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA" tvg-logo="https://livebgtv.stream/logos/novatv.png" group-title="Bulgaria",NOVA
 http://line.pito-tv.com:80/4BUI9oLxEK/Gy4pAPVmh4/2062
 #EXTINF:-1 tvg-id="novanews" tvg-name="NOVA NEWS" tvg-logo="https://livebgtv.stream/logos/novanews.png" group-title="Bulgaria",NOVA NEWS
 https://s001.i3n9hf4876tyeri98743jkhfsjh.top:9090/53a6nt32u2j4hk97o/a02u/tracks-v1a1/mono.m3u8?token=oXHp-_-UCoNHlemcLyfmhA
